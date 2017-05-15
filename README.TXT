@@ -25,3 +25,8 @@ pas les modifications que vous avez effectuées.
 Une fois que vous avez créé votre repository Git, envoyez-le sur GitHub, puis copiez
 l’URL du repository GitHub créé spécialement pour cette activité
 (format: https://github.com/votrenomd'utilisateur/votreprojet)."
+
+Fichiers inclus :
+-----------------
+
+Une page HTML et une feuille CSS diverses, plutôt vides...
