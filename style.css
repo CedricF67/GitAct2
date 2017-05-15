@@ -1,0 +1,25 @@
+/* Styles généraux */
+
+body {
+	background: url(fond.jpg) no-repeat fixed center;
+}
+
+section {
+	margin-bottom: 15px;
+}
+
+h2 {
+	margin-top: 0px;
+	border-bottom: 1px solid black;
+	text-transform: uppercase;
+	font-size: 1.5em;
+}
+
+/* Classes */
+
+.projet {
+	border: 2px solid black ;
+	border-radius: 25px;
+	padding: 15px;
+	background-color: rgba(238,238,238,0.7)
+}
